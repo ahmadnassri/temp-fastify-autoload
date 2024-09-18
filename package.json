@@ -8,6 +8,6 @@
     "@fastify/autoload": "^5.7.1",
     "@fastify/cors": "^8.3.0",
     "@fastify/helmet": "^11.1.0",
-    "fastify": "^4.23.2"
+    "fastify": "^4.28.1"
   }
 }
